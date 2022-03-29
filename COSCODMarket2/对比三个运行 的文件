@@ -1,0 +1,78 @@
+RunSlopeNew.py
+ic| result: {'kinds': 'others',
+             'lack_count': 0,
+             'last_week_rank': 452,
+             'min_rank_date': '2021-04-10',
+             'nine_month_slope': 22.92,
+             'one_month_slope': -209.0,
+             'rank_seq': 12,
+             'searchTerm': 'shorts for women',
+             'six_month_slope': 18.93,
+             'slope_seq': 4,
+             'start_date': '2019-06-01',
+             'this_click_focus': 0.09,
+             'this_con_focus': 0.07,
+             'this_week': '2022-02-19',
+             'this_week_rank': 301,
+             'three_month_slope': -305.05,
+             'twelve_month_slope': 32.84,
+             'two_month_slope': -135.56,
+             'week_three_slope': -228.0,
+             'wordTag': 'seasonal',
+             'wordsLength': 3}
+ic| end - start: 0.4330427646636963
+
+Process finished with exit code 0
+
+RunSlopePool.py
+ic| result: {'kinds': 'others',
+             'lack_count': 0,
+             'last_week_rank': 452,
+             'min_rank_date': '2021-04-10',
+             'nine_month_slope': 22.92,
+             'one_month_slope': -209.0,
+             'rank_seq': 12,
+             'searchTerm': 'shorts for women',
+             'six_month_slope': 18.93,
+             'slope_seq': 4,
+             'start_date': '2019-06-01',
+             'this_click_focus': 0.09,
+             'this_con_focus': 0.07,
+             'this_week': '2022-02-19',
+             'this_week_rank': 301,
+             'three_month_slope': -305.05,
+             'twelve_month_slope': 32.84,
+             'two_month_slope': -135.56,
+             'week_three_slope': -228.0,
+             'wordTag': 'seasonal',
+             'wordsLength': 3}
+ic| end-start: 2.040884494781494
+
+Process finished with exit code 0
+RunSlopePoolUpgrade.py
+ic| result: {'kinds': 'others',
+             'lack_count': 0,
+             'last_week_rank': 452,
+             'min_rank_date': '2021-04-10',
+             'nine_month_slope': 22.92,
+             'one_month_slope': -209.0,
+             'rank_seq': 12,
+             'searchTerm': 'shorts for women',
+             'six_month_slope': 18.93,
+             'slope_seq': 4,
+             'start_date': '2019-06-01',
+             'this_click_focus': 0.09,
+             'this_con_focus': 0.07,
+             'this_week': '2022-02-19',
+             'this_week_rank': 301,
+             'three_month_slope': -305.05,
+             'twelve_month_slope': 32.84,
+             'two_month_slope': -135.56,
+             'week_three_slope': -228.0,
+             'wordTag': 'seasonal',
+             'wordsLength': 3}
+ic| end-start: 2.071075201034546
+
+Process finished with exit code 0
+
+以上的结果均一致
